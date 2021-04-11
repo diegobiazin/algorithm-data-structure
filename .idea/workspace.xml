@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea7d9dba-9304-4d2a-8b1c-90c23f4b08b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CountingValleys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/JumpingOnClouds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CountingValleys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JumpingOnClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JumpingOnClouds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/HourglassSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/HourglassSum.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +33,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithms" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -55,14 +49,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1dNr2lWCDnVXx2Kof9UVXJumF4s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,110 +73,109 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592275668692" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projeto Will (1)/onminerals/backend" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45280123" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\programas\algorithms\src\main" />
     </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SherlockAndAnagramsKt">
-    <configuration name="ArrayManipulationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.LongestSubstringKt">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="algorithms.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterviewKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ArrayManipulationKt" />
+      <option name="MAIN_CLASS_NAME" value="InterviewKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumSwaps2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestSubstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MinimumSwaps2Kt" />
+      <option name="MAIN_CLASS_NAME" value="master_coding.LongestSubstringKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNoteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="QueenAttackIIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="RansomNoteKt" />
+      <option name="MAIN_CLASS_NAME" value="QueenAttackIIKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SherlockAndAnagramsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="TypedOutStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SherlockAndAnagramsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="algorithms.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TwoStringsKt" />
+      <option name="MAIN_CLASS_NAME" value="master_coding.TypedOutStringsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.MinimumSwaps2Kt" />
-      <item itemvalue="Kotlin.ArrayManipulationKt" />
-      <item itemvalue="Kotlin.RansomNoteKt" />
-      <item itemvalue="Kotlin.TwoStringsKt" />
-      <item itemvalue="Kotlin.SherlockAndAnagramsKt" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.TypedOutStringsKt" />
+      <item itemvalue="Application.QueenAttackIIKt" />
+      <item itemvalue="Application.InterviewKt" />
+      <item itemvalue="Application.LongestSubstringKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SherlockAndAnagramsKt" />
-        <item itemvalue="Kotlin.TwoStringsKt" />
-        <item itemvalue="Kotlin.RansomNoteKt" />
-        <item itemvalue="Kotlin.ArrayManipulationKt" />
-        <item itemvalue="Kotlin.MinimumSwaps2Kt" />
+        <item itemvalue="Application.LongestSubstringKt" />
+        <item itemvalue="Application.TypedOutStringsKt" />
+        <item itemvalue="Application.InterviewKt" />
+        <item itemvalue="Application.QueenAttackIIKt" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -201,94 +202,17 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="161" key="#Plugins" timestamp="1601001596104">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="161" key="#Plugins/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1601001596104" />
-    <state x="440" y="94" key="#Project_Structure" timestamp="1601001252550">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1601001252550" />
-    <state x="739" y="298" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1601001273363">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="739" y="298" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1601001273363" />
-    <state x="1166" y="164" key="#xdebugger.evaluate" timestamp="1605659275223">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1039" y="154" key="#xdebugger.evaluate/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166504865" />
-    <state x="1166" y="164" key="#xdebugger.evaluate/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605659275223" />
-    <state width="413" height="466" key="DebuggerActiveHint" timestamp="1605659186751">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="391" height="466" key="DebuggerActiveHint/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166503797" />
-    <state width="413" height="466" key="DebuggerActiveHint/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605659186751" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1605219052607">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605219052607" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1605834828963">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166545601" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828963" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1605834828963">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166545601" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828963" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1605834828963">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166545601" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828963" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1605834828963">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166545601" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828963" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1605834828958">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166372328" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828958" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1605834828958">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166372328" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828958" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1605834828958">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166372327" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828958" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1605834828958">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603166372328" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1605834828958" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1604028806856">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1601001716028" />
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1604028806856" />
-    <state x="342" y="130" key="new project wizard" timestamp="1601001190805">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="130" key="new project wizard/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1601001190805" />
-    <state x="677" y="291" key="refactoring.ChangeSignatureDialog" timestamp="1603673275336">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="677" y="291" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/2001.0.1839.1080@0.0.1920.1040" timestamp="1603673275336" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1603164193275">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1603164193275" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601001693693">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1601001693693" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,28 +232,15 @@
           <line>19</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Inheritance.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/RepeatString.kt</url>
           <line>17</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/HourglassSum.kt</url>
-          <line>27</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/HourglassSum.kt</url>
-          <line>11</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/HourglassSum.kt</url>
-          <line>22</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/RotLeft.kt</url>
@@ -375,6 +286,94 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/TwoStrings.kt</url>
           <line>19</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/CountTriplets.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PhoneBook.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PhoneBook.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/TrappingRainWater.kt</url>
+          <line>72</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/TrappingRainWater.kt</url>
+          <line>90</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/TrappingRainWater.kt</url>
+          <line>91</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/DaysOfCode.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/DaysOfCode.kt</url>
+          <line>8</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PhoneBook.kt</url>
+          <line>48</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/TrappingRainWater.kt</url>
+          <line>47</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/NonDivisibleSubset.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/TypedOutStrings.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/TypedOutStrings.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/TypedOutStrings.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/QueenAttackII.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Interview.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Interview.kt</url>
+          <line>52</line>
+          <option name="timeStamp" value="122" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
