@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea7d9dba-9304-4d2a-8b1c-90c23f4b08b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/HourglassSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/HourglassSum.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,10 +98,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestSubstringKt">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+  <component name="RunManager" selected="Application.BubbleSortKt">
+    <configuration name="BubbleSortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="master_coding.BubbleSortKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.TypedOutStringsKt" />
       <item itemvalue="Application.QueenAttackIIKt" />
       <item itemvalue="Application.InterviewKt" />
       <item itemvalue="Application.LongestSubstringKt" />
+      <item itemvalue="Application.BubbleSortKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSortKt" />
         <item itemvalue="Application.LongestSubstringKt" />
         <item itemvalue="Application.TypedOutStringsKt" />
         <item itemvalue="Application.InterviewKt" />
         <item itemvalue="Application.QueenAttackIIKt" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -374,6 +376,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/Interview.kt</url>
           <line>52</line>
           <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/BubbleSort.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
