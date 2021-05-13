@@ -73,7 +73,7 @@ fun almostPalindrome(input: String): Boolean {
 
     while (left < right) {
         if (s[left] != s[right]) {
-            return isValidPalindrome(s, left + 1, right) || isValidPalindrome(s, left, right - 1);
+            return isValidPalindrome(s, left + 1, right) || isValidPalindrome(s, left, right - 1)
         }
 
         left++

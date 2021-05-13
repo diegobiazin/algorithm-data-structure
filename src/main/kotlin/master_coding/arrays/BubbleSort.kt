@@ -17,3 +17,9 @@ fun bubbleSort(array: Array<Int>) {
         }
     }
 }
+
+class Node(
+    val left: Int? = null,
+    val right: Int? = null,
+    val value: Int
+)
