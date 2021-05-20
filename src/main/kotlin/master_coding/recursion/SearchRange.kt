@@ -28,6 +28,7 @@ fun binarySearch(nums: Array<Int>, pleft: Int, pright: Int, target: Int): Int {
     return -1
 }
 
+//Find start and end of target - O(logN)
 fun searchRange(nums: Array<Int>, target: Int) {
     if (nums.isEmpty())
         print("-1, -1")
