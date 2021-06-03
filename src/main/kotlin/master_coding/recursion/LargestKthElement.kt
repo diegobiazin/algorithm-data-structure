@@ -52,7 +52,7 @@ fun quickSelect(nums: Array<Int>, left: Int, right: Int, indexToFind: Int): Int 
     } else {
         return quickSelect(nums, partitionIndex + 1, right, indexToFind);
     }
-};
+}
 
 fun swap(array: Array<Int>, i: Int, j: Int) {
     val temp = array[i]

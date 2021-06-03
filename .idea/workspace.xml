@@ -7,12 +7,7 @@
     <list default="true" id="ea7d9dba-9304-4d2a-8b1c-90c23f4b08b4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ArrayManipulation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayManipulation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/master_coding/BubbleSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/arrays/BubbleSort.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/master_coding/LongestSubstring.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/strings/LongestSubstring.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/master_coding/Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/strings/Palindrome.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/master_coding/TrappingRainWater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/arrays/TrappingRainWater.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/master_coding/TypedOutStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/strings/TypedOutStrings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/master_coding/recursion/LargestKthElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/master_coding/recursion/LargestKthElement.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +71,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.10/d971e5bb07a7f610eda65e5efc8decbd0548a270/kotlin-stdlib-common-1.4.10-sources.jar!/kotlin/text/Strings.kt" root0="SKIP_INSPECTION" />
-  </component>
   <component name="ProjectId" id="1dNr2lWCDnVXx2Kof9UVXJumF4s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -115,56 +107,56 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.RightSideViewBFSKt">
-    <configuration name="LargestKthElementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.recursion.LargestKthElementKt" />
+  <component name="RunManager" selected="Kotlin.MatrixTraversalKt">
+    <configuration name="ActivityNotificationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.sort.ActivityNotificationsKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumToysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.sort.MaximumToysKt" />
+    <configuration name="CountNodesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.binary_trees.CountNodesKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MmaxDepthKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.binary_trees.MmaxDepthKt" />
+    <configuration name="IntermediateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntermediateKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightSideViewBFSKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.binary_trees.RightSideViewBFSKt" />
+    <configuration name="MatrixTraversalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.two_d_array.MatrixTraversalKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchRangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.recursion.SearchRangeKt" />
+    <configuration name="ValidateBinarySearchTreeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.binary_trees.ValidateBinarySearchTreeKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.LargestKthElementKt" />
-      <item itemvalue="Kotlin.SearchRangeKt" />
-      <item itemvalue="Kotlin.MaximumToysKt" />
-      <item itemvalue="Kotlin.MmaxDepthKt" />
-      <item itemvalue="Kotlin.RightSideViewBFSKt" />
+      <item itemvalue="Kotlin.CountNodesKt" />
+      <item itemvalue="Kotlin.IntermediateKt" />
+      <item itemvalue="Kotlin.ValidateBinarySearchTreeKt" />
+      <item itemvalue="Kotlin.ActivityNotificationsKt" />
+      <item itemvalue="Kotlin.MatrixTraversalKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.RightSideViewBFSKt" />
-        <item itemvalue="Kotlin.MmaxDepthKt" />
-        <item itemvalue="Kotlin.MaximumToysKt" />
-        <item itemvalue="Kotlin.LargestKthElementKt" />
-        <item itemvalue="Kotlin.SearchRangeKt" />
+        <item itemvalue="Kotlin.MatrixTraversalKt" />
+        <item itemvalue="Kotlin.ActivityNotificationsKt" />
+        <item itemvalue="Kotlin.ValidateBinarySearchTreeKt" />
+        <item itemvalue="Kotlin.IntermediateKt" />
+        <item itemvalue="Kotlin.CountNodesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +488,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/recursion/SearchRange.kt</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
@@ -529,9 +521,96 @@
           <line>12</line>
           <option name="timeStamp" value="216" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/binary_trees/LevelOrder.kt</url>
+          <line>43</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/binary_trees/RightSideViewDFS.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/binary_trees/RightSideViewDFS.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/binary_trees/RightSideViewDFS.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/binary_trees/CountNodes.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Intermediate.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Intermediate.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Intermediate.kt</url>
+          <line>51</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Intermediate.kt</url>
+          <line>48</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/binary_trees/ValidateBinarySearchTree.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/binary_trees/ValidateBinarySearchTree.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/sort/ActivityNotifications.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/sort/ActivityNotifications.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/two_d_array/MatrixTraversal.kt</url>
+          <line>16</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/two_d_array/MatrixTraversal.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
     <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="result" />
+        <watch expression="seen" />
+      </configuration>
       <configuration name="Application">
         <watch expression="s.charAt(i)" language="JAVA" />
         <watch expression="s.length()" language="JAVA" />
