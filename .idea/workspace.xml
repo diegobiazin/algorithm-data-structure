@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7d9dba-9304-4d2a-8b1c-90c23f4b08b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Intermediate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Intermediate.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ea7d9dba-9304-4d2a-8b1c-90c23f4b08b4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,17 +29,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithms" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithms" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -71,6 +57,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1dNr2lWCDnVXx2Kof9UVXJumF4s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -84,11 +73,11 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592275668692" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clean-architecture" />
+    <property name="last_opened_file_path" value="C:/tools/gradle-7.4.2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45280123" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -107,56 +96,70 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FlatlandSpaceStationsKt">
-    <configuration name="CourseScheduleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.graph.CourseScheduleKt" />
+  <component name="RunManager" selected="Gradle.algorithms [clean]">
+    <configuration name="algorithms [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AbbreviationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.dynamic_programming.AbbreviationKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlatlandSpaceStationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.graph.FlatlandSpaceStationsKt" />
+    <configuration name="CandiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.dynamic_programming.CandiesKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InformAllEmployeesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.graph.InformAllEmployeesKt" />
+    <configuration name="DecibinaryNumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.dynamic_programming.DecibinaryNumbersKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NetworkDelayTimeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master_coding.graph.NetworkDelayTimeKt" />
-      <module name="algorithms.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProblemSolvingIntermediateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolvingIntermediateKt" />
+    <configuration name="SudokuSolverKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master_coding.dynamic_programming.SudokuSolverKt" />
       <module name="algorithms.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.InformAllEmployeesKt" />
-      <item itemvalue="Kotlin.CourseScheduleKt" />
-      <item itemvalue="Kotlin.ProblemSolvingIntermediateKt" />
-      <item itemvalue="Kotlin.FlatlandSpaceStationsKt" />
-      <item itemvalue="Kotlin.NetworkDelayTimeKt" />
+      <item itemvalue="Kotlin.AbbreviationKt" />
+      <item itemvalue="Kotlin.CandiesKt" />
+      <item itemvalue="Kotlin.SudokuSolverKt" />
+      <item itemvalue="Kotlin.DecibinaryNumbersKt" />
+      <item itemvalue="Gradle.algorithms [clean]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FlatlandSpaceStationsKt" />
-        <item itemvalue="Kotlin.NetworkDelayTimeKt" />
-        <item itemvalue="Kotlin.ProblemSolvingIntermediateKt" />
-        <item itemvalue="Kotlin.CourseScheduleKt" />
-        <item itemvalue="Kotlin.InformAllEmployeesKt" />
+        <item itemvalue="Gradle.algorithms [clean]" />
+        <item itemvalue="Kotlin.DecibinaryNumbersKt" />
+        <item itemvalue="Kotlin.SudokuSolverKt" />
+        <item itemvalue="Kotlin.CandiesKt" />
+        <item itemvalue="Kotlin.AbbreviationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +196,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -452,11 +454,6 @@
           <option name="timeStamp" value="182" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/stacks/RemoveMinimumParentheses.kt</url>
-          <line>9</line>
-          <option name="timeStamp" value="183" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/strings/LongestSubstring.kt</url>
           <line>41</line>
           <option name="timeStamp" value="185" />
@@ -657,6 +654,61 @@
           <line>12</line>
           <option name="timeStamp" value="302" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/MaxSubsetSum.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/MaxSubsetSum.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/KnightProbability.kt</url>
+          <line>42</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/Abbreviation.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/Abbreviation.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/SudokuSolver.kt</url>
+          <line>41</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/SudokuSolver.kt</url>
+          <line>60</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/DecibinaryNumbers.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/DecibinaryNumbers.kt</url>
+          <line>61</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/DecibinaryNumbers.kt</url>
+          <line>37</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/master_coding/dynamic_programming/DecibinaryNumbers.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -666,10 +718,12 @@
     </pin-to-top-manager>
     <watches-manager>
       <configuration name="JetRunConfigurationType">
-        <watch expression="result" />
-        <watch expression="seen" />
-        <watch expression="times" />
-        <watch expression="heap" />
+        <watch expression="prevResut" language="kotlin" />
+        <watch expression="aboveResult" language="kotlin" />
+        <watch expression="a[i - 1]" language="kotlin" />
+        <watch expression="b[j - 1]" language="kotlin" />
+        <watch expression="board" />
+        <watch expression="db" />
       </configuration>
       <configuration name="Application">
         <watch expression="s.charAt(i)" language="JAVA" />
@@ -679,7 +733,8 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithms$SherlockValidStringKt.ic" NAME="SherlockValidStringKt Coverage Results" MODIFIED="1619573046347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/algorithms$BiggerIsGreaterKt.ic" NAME="BiggerIsGreaterKt Coverage Results" MODIFIED="1618693577921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/algorithms$SudokuSolverKt.ic" NAME="SudokuSolverKt Coverage Results" MODIFIED="1646701762954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/algorithms$SherlockValidStringKt.ic" NAME="SherlockValidStringKt Coverage Results" MODIFIED="1619573046347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

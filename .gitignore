@@ -4,6 +4,9 @@
 
 # User-specific stuff
 .idea
+.gradle
+.gradle/**
+.idea/**
 
 # CMake
 cmake-build-*/
